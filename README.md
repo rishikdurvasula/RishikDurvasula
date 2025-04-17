@@ -1,4 +1,5 @@
 Hi there 👋, I'm Rishik Durvasula
+
 💻 Software Engineer | 🧠 AI Enthusiast | 📱 iOS Dev | 🌱 Data Explorer
 
 I’m a UCLA student majoring in Linguistics & Computer Science with a Data Science minor, passionate about building intelligent, scalable, and meaningful software systems that bridge performance with purpose. Whether it’s training neural nets on GPU clusters, deploying full-stack web apps, or engineering classification SDKs in C++, I love solving complex problems through clean, elegant code.
