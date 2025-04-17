@@ -42,10 +42,15 @@ Research Intern @ UCLA Golshani Lab
 
 Backend Director @ AgeWell Bruins
 🧠 Lead backend development for tech solutions supporting older adults
+📈 Managed 100+ GitHub workflows with CI pipelines and robust APIs
 
 ## Publication
 [Research Paper on Customer Segmentation](https://medium.com/@vklotzma/analyzing-customer-segmentation-using-k-means-algorithm-and-principal-component-analysis-rishik-1320ba095dd5)
 
-📈 Managed 100+ GitHub workflows with CI pipelines and robust APIs
+
+### Contact Me
+Email: rdurvasula25@g.ucla.edu
+[Linkedin:](https://www.linkedin.com/in/rishik-durvasula-90a7241a9/)
+
 
 
