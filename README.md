@@ -30,7 +30,7 @@ Deploying deep learning models (Cellpose, CNNs) for neuron detection, enabling h
 🔸 AI Grocery Assistant:
 Creating a tool to better assist college students to optimize grocery shopping
 
-**
+
 ## 📜 Experience & Research**
 Software Engineering Intern @ VectorEdge
 💡 Built a blazing-fast C++ data classification SDK using Google RE2
