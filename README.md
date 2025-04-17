@@ -3,7 +3,7 @@ Hi there 👋, I'm Rishik Durvasula
 
 I’m a UCLA student majoring in Linguistics & Computer Science with a Data Science minor, passionate about building intelligent, scalable, and meaningful software systems that bridge performance with purpose. Whether it’s training neural nets on GPU clusters, deploying full-stack web apps, or engineering classification SDKs in C++, I love solving complex problems through clean, elegant code.
 
-🛠 What I Do
+## 🛠 What I Do
 🔸 Software Engineering:
 Skilled in C++, Go, JavaScript/TypeScript, Swift, Python, and more. I’ve engineered everything from real-time iOS apps to optimized data SDKs using frameworks like React, Node.js, Flask, and Express.
 
@@ -19,7 +19,7 @@ From containerization with Docker to CI/CD with CMake and gRPC integrations, I f
 🔸 Leadership & Mentorship:
 As Backend Director at AgeWell Bruins, I lead a growing team of developers in designing health-tech solutions for older adults, merging empathy with engineering.
 
-🚀 What I’m Working On
+## 🚀 What I’m Working On
 🔸 FindMyFood (iOS App Launching Soon):
 A SwiftUI-based social networking app for foodies, backed by Node.js, Express, and AWS. Think Yelp meets social media.
 
@@ -29,8 +29,8 @@ Deploying deep learning models (Cellpose, CNNs) for neuron detection, enabling h
 🔸 AI Grocery Assistant:
 Creating a tool to better assist college students to optimize grocery shopping
 
-
-📜 Experience & Research
+**
+## 📜 Experience & Research**
 Software Engineering Intern @ VectorEdge
 💡 Built a blazing-fast C++ data classification SDK using Google RE2
 🔐 Improved data security by 30% with a custom ranking algorithm
@@ -42,6 +42,10 @@ Research Intern @ UCLA Golshani Lab
 
 Backend Director @ AgeWell Bruins
 🧠 Lead backend development for tech solutions supporting older adults
+
+## Publication
+[Research Paper on Customer Segmentation](https://medium.com/@vklotzma/analyzing-customer-segmentation-using-k-means-algorithm-and-principal-component-analysis-rishik-1320ba095dd5)
+
 📈 Managed 100+ GitHub workflows with CI pipelines and robust APIs
 
 
